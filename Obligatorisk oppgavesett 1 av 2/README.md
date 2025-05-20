@@ -31,7 +31,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
 
 ```bash
-python assignment1.py
+python task3.py
 ```
 
 ### To compile the LaTeX file:
