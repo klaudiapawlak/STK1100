@@ -57,7 +57,3 @@ Mandatory Assignment 1 of 2/
 
 Klaudia M. Pawlak  
 [GitHub Profile](https://github.com/klaudiapawlak)
-
----
-
-Feel free to fork or use this notebook for educational purposes.
