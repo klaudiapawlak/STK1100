@@ -13,9 +13,9 @@ This folder contains the second mandatory assignment for the STK1100 course (Pro
 ## 📄 Contents
 
 - `figures/` – Folder containing plots and results used in the assignment
+- `assignment2.tex` – LaTeX source code
 - `assignment2_python.py` - Python script used to solve Task 3
 - `assignment2_solution.pdf` – Final solution document compiled from LaTeX
-- `assignment2.tex` – LaTeX source code
 
 ## 🛠 Tools
 
