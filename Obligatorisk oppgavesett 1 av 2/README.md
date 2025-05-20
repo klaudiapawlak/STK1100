@@ -24,11 +24,11 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 - Python – for simulations and visualizations
 - NumPy, Matplotlib – for numerical computations and plotting
 
-## ▶️ How to Run
+## 🚀 How to Run
 
 - **To run the Python script:**
 
-Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
+ Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
 
 ```bash
 python task3.py
@@ -36,7 +36,7 @@ python task3.py
 
 - **To compile the LaTeX file:**
 
-You can use Overleaf: [Overleaf](https://www.overleaf.com/)
+ You can use Overleaf: [Overleaf](https://www.overleaf.com/)
 
 ## 📂 Repository Structure
 ```
