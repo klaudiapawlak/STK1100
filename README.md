@@ -14,6 +14,7 @@ STK1100 course gives a basic introduction to probability and the use of probabil
 
 ## 🧪 Structure and Organization
 
+```
 STK1100/
 │
 ├── oblig1/
@@ -37,6 +38,7 @@ STK1100/
 │   └── confidence_intervals_demo.ipynb
 │
 └── README.md             # This file
+```
 
 ## 🔍 Assignment Highlights
 
