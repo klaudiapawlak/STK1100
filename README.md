@@ -1,14 +1,67 @@
-# STK1100
-## Sannsynlighetsregning og statistisk modellering
+# STK1100 – Probability and Statistical Modelling
 
->Emnet gir en grunnleggende innføring i sannsynlighetsregning og bruk av sannsynlighetsmodeller for å beskrive stokastiske variabler og prosesser. Emnet gir også en innføring i statistisk inferens, det vil si å trekke ut informasjon fra data.
+This repository contains coursework and mandatory assignments completed as part of the STK1100 course (Probability and Statistical Modelling) at the University of Oslo.
+STK1100 course gives a basic introduction to probability and the use of probability models to describe random variables and stochastic processes. It also covers statistical inference — how to extract information from data.
 
-Etter å ha fullført emnet har du:
+## 🎯 Course Objectives
+- Understand the concept of probability and master the basic rules of probability.
+- Be familiar with random variables and be able to compute expectation, variance, covariance, and moment-generating functions.
+- Know the most common univariate probability models (Binomial, Poisson, Normal, Gamma) and have seen examples of bivariate models.
+- Be able to perform computations with univariate and bivariate distributions and determine conditional distributions.
+- Understand the law of large numbers and the central limit theorem.
+- Be able to use methods for estimation and construction of confidence intervals in simple scenarios.
+- Be familiar with stochastic simulation and the concept of bootstrapping.
 
-- Kunnskap om sannsynlighetsbegrepet og grunnleggende regler for sannsynlighet
-- Kunnskap om stokastiske variabler, forventning, varians, kovarians og momentgenererende funksjoner
-- Kjennskap til store talls lov og sentralgrenseteoremet
-- Kjennskap til de vanligste univariate sannsynlighetsmodeller og sett eksempler på bivariate modeller samt betingede fordelinger
-- Kjennskap til de vanligste sannsynlighetsmodeller som Binomisk, Poisson, Normal, Gamma
-- Enkle metoder for estimering og konstruksjon av konfidensintervall
-- Kjennskap til stokastisk simulering og Bootstrapping
+## 🧪 Structure and Organization
+
+STK1100/
+│
+├── oblig1/
+│   ├── oblig1_solution.ipynb
+│   ├── plots/
+│   │   └── oblig1_fig1.png
+│   └── README.md         # Short explanation of problem and method
+│
+├── oblig2/
+│   ├── oblig2_solution.ipynb
+│   ├── plots/
+│   └── README.md
+│
+├── oblig3/
+│   ├── oblig3_solution.ipynb
+│   └── README.md
+│
+├── summary_notes/
+│   ├── distributions_overview.ipynb
+│   ├── central_limit_theorem.ipynb
+│   └── confidence_intervals_demo.ipynb
+│
+└── README.md             # This file
+
+## 🔍 Assignment Highlights
+
+- **Oblig 1:** Simulated dice rolls to explore the Law of Large Numbers (LLN) and empirical distributions.
+- **Oblig 2:** Investigated confidence intervals using simulated sampling from normal distributions.
+- **Oblig 3:** Demonstrated Central Limit Theorem using custom and built-in Python functions.
+
+## 🛠 Tools Used
+
+- Python
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 📈 How to Use
+
+1. Clone the repository
+2. Open any `.ipynb` file in JupyterLab or VSCode
+3. Run the cells to reproduce the statistical simulations
+
+## 👤 Author
+
+Klaudia M. Pawlak  
+[GitHub](https://github.com/klaudiapawlak)
+
+---
+
+This repository serves as both a learning resource and a portfolio of statistical programming skills.
