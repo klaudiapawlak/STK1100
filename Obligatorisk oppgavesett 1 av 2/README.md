@@ -18,7 +18,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 - `task3.py` - Python script used to solve Task 3
 - `assignment1_description.pdf` - Assignment description
 
-## 🛠 Tools and Technologies
+## 🛠 Tools
 
 - LaTeX – for typesetting mathematical content
 - Python – for simulations and visualizations
@@ -34,15 +34,9 @@ Make sure you have Python installed (version 3.x) along with NumPy and Matplotli
 python assignment1.py
 ```
 
-You can install dependencies (if needed) using:
-
-```bash
-pip install numpy matplotlib
-```
-
 ### To compile the LaTeX file:
 
-You can use Overleaf: https://www.overleaf.com/ .
+You can use Overleaf: [Overleaf](https://www.overleaf.com/)
 
 ## 📂 Repository Structure
 ```
