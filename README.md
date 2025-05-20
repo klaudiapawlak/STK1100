@@ -63,6 +63,7 @@ STK1100/
 - NumPy
 - Matplotlib
 - Pandas
+- SciPy
 - LaTeX
 
 ## 🌐 STK1100 Course Page
