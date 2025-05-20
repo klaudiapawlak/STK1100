@@ -1,4 +1,4 @@
-STK1100 - Mandatory Assignment 1 of 2
+# STK1100 - Mandatory Assignment 1 of 2
 
 This folder contains the first mandatory assignment for the STK1100 course (Probability and Statistical Modelling) at the University of Oslo.
 
