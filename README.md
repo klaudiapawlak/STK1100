@@ -15,7 +15,7 @@ STK1100 course gives a basic introduction to probability and the use of probabil
 
 ## 🔍 Assignment Highlights
 
-- **Oblig 1:** Simulated dice rolls to explore the Law of Large Numbers (LLN) and empirical distributions.
+- **Mandatory Assignment 1 of 2:** Calculating probabilities for people exiting an elevator, using conditional probability to find the chance someone forgot to feed a fish, and computing a fair yearly payment for a pension based on life expectancy data. The final task includes Python code to calculate and visualize the results using real mortality statistics.
 - **Oblig 2:** Investigated confidence intervals using simulated sampling from normal distributions.
 - **Oblig 3:** Demonstrated Central Limit Theorem using custom and built-in Python functions.
 
