@@ -4,8 +4,6 @@ This repository contains coursework and mandatory assignments completed as part 
 
 STK1100 course gives a basic introduction to probability and the use of probability models to describe random variables and stochastic processes. It also covers statistical inference — how to extract information from data.
 
-[STK1100 Course Page – University of Oslo](https://www.uio.no/studier/emner/matnat/math/STK1100/index-eng.html)
-
 ## 🎯 Course Objectives
 - Understand the concept of probability and master the basic rules of probability.
 - Be familiar with random variables and be able to compute expectation, variance, covariance, and moment-generating functions.
@@ -55,6 +53,10 @@ STK1100/
 - NumPy
 - Matplotlib
 - LaTeX
+
+## 📎STK1100 Course Page
+
+[STK1100 Course Page – University of Oslo](https://www.uio.no/studier/emner/matnat/math/STK1100/index-eng.html)
 
 ## 👤 Author
 
