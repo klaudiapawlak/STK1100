@@ -66,4 +66,4 @@ Klaudia M. Pawlak
 
 ---
 
-This repository serves as both a learning resource and a portfolio of statistical programming skills.
+Feel free to fork or use this notebook for educational purposes.
