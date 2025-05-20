@@ -24,6 +24,23 @@ The assignment focuses on fundamental concepts of probability, including:
 - Python – for simulations and visualizations
 - NumPy, Matplotlib – for numerical computations and plotting
 
+## ▶️ How to Run
+
+### To run the Python script:
+
+Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
+
+```bash
+python assignment1.py
+```
+
+You can install dependencies (if needed) using:
+pip install numpy matplotlib
+
+### To compile the LaTeX file:
+
+You can use Overleaf: https://www.overleaf.com/ .
+
 ## 📂 Repository Structure
 ```
 Obligatorisk oppgavesett 1 av 2/
