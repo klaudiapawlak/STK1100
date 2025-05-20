@@ -27,11 +27,11 @@ This folder contains the second mandatory assignment for the STK1100 course (Pro
 
 **To run the Python script:**
 
- 1. Make sure you have Python installed (version 3.x) along with Pandas, NumPy and Matplotlib.
+ 1. Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
  2. Run the relevant script:
 
 ```bash
-python task3.py
+python assignment2_python.py
 ```
 
 **To compile the LaTeX file:**
@@ -47,10 +47,9 @@ Mandatory Assignment 1 of 2/
 │ └── figure2.jpg
 │ └── figure3.jpg
 ├── README.md
-├── assignment1.tex
-├── assignment1_description.pdf
-├── assignment1_solution.pdf
-└── task3.py
+├── assignment2.tex
+├── assignment2_solution.pdf
+└── assignment2_python.py
 ```
 
 ## 👤 Author
