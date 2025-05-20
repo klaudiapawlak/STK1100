@@ -13,6 +13,12 @@ STK1100 course gives a basic introduction to probability and the use of probabil
 - Be able to use methods for estimation and construction of confidence intervals in simple scenarios.
 - Be familiar with stochastic simulation and the concept of bootstrapping.
 
+## 🔍 Assignment Highlights
+
+- **Oblig 1:** Simulated dice rolls to explore the Law of Large Numbers (LLN) and empirical distributions.
+- **Oblig 2:** Investigated confidence intervals using simulated sampling from normal distributions.
+- **Oblig 3:** Demonstrated Central Limit Theorem using custom and built-in Python functions.
+
 ## 🧪 Structure and Organization
 
 ```
@@ -41,24 +47,11 @@ STK1100/
 └── README.md             # This file
 ```
 
-## 🔍 Assignment Highlights
-
-- **Oblig 1:** Simulated dice rolls to explore the Law of Large Numbers (LLN) and empirical distributions.
-- **Oblig 2:** Investigated confidence intervals using simulated sampling from normal distributions.
-- **Oblig 3:** Demonstrated Central Limit Theorem using custom and built-in Python functions.
-
 ## 🛠 Tools Used
 
 - Python
 - NumPy
 - Matplotlib
-- Jupyter Notebook
-
-## 📈 How to Use
-
-1. Clone the repository
-2. Open any `.ipynb` file in JupyterLab or VSCode
-3. Run the cells to reproduce the statistical simulations
 
 ## 👤 Author
 
