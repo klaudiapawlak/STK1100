@@ -19,7 +19,7 @@ STK1100 course gives a basic introduction to probability and the use of probabil
 - **Oblig 2:** Investigated confidence intervals using simulated sampling from normal distributions.
 - **Oblig 3:** Demonstrated Central Limit Theorem using custom and built-in Python functions.
 
-## 🧪 Structure and Organization
+## 📂 Structure and Organization
 
 ```
 STK1100/
