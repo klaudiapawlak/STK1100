@@ -28,7 +28,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 **To run the Python script:**
 
- 1. Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
+ 1. Make sure you have Python installed (version 3.x) along with Pandas, NumPy and Matplotlib.
  2. Run the relevant script:
 
 ```bash
