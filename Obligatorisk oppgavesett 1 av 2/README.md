@@ -34,6 +34,7 @@ Make sure you have Python installed (version 3.x) along with NumPy and Matplotli
 python task3.py
 ```
 
+
 **To compile the LaTeX file:**
 
 You can use Overleaf: [Overleaf](https://www.overleaf.com/)
