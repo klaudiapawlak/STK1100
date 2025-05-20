@@ -4,13 +4,11 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 ## 📝 Assignment Overview
 
-The assignment focuses on fundamental concepts of probability, including:
-
-- Basic probability rules and axioms
-- Conditional probability
-- Independence
-- Combinatorics
-- Discrete probability distributions (e.g., Binomial, Poisson)
+- Understanding the concept of probability and mastering basic probability rules
+- Working with random variables (expectation, variance, etc.)
+- Applying common discrete distributions (e.g. Binomial, Poisson)
+- Computing probabilities and expectations using univariate distributions
+- Using conditional probability and understanding independence
 
 ## 📄 Contents
 
