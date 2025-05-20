@@ -24,11 +24,16 @@ STK1100 course gives a basic introduction to probability and the use of probabil
 ```
 STK1100/
 │
-├── oblig1/
-│   ├── oblig1_solution.ipynb
-│   ├── plots/
-│   │   └── oblig1_fig1.png
-│   └── README.md         # Short explanation of problem and method
+├── Mandatory Assignment 1 of 2/
+│   ├── figures/
+│   │   └── figure1.png
+│   │   └── figure2.png
+│   │   └── figure3.png
+│   ├── README.md
+│   ├── assignment1.tex
+│   ├── assignment1_description.pdf
+│   ├── assignment1_solution.pdf
+│   └── task3.py
 │
 ├── oblig2/
 │   ├── oblig2_solution.ipynb
