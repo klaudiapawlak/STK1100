@@ -56,7 +56,7 @@ STK1100/
 
 ## 📎STK1100 Course Page
 
-[STK1100 Course Page – University of Oslo](https://www.uio.no/studier/emner/matnat/math/STK1100/index-eng.html)
+[University of Oslo](https://www.uio.no/studier/emner/matnat/math/STK1100/index-eng.html)
 
 ## 👤 Author
 
