@@ -1,6 +1,7 @@
 # STK1100 – Probability and Statistical Modelling
 
 This repository contains coursework and mandatory assignments completed as part of the STK1100 course (Probability and Statistical Modelling) at the University of Oslo.
+
 STK1100 course gives a basic introduction to probability and the use of probability models to describe random variables and stochastic processes. It also covers statistical inference — how to extract information from data.
 
 ## 🎯 Course Objectives
