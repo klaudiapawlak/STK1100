@@ -14,7 +14,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 - `assignment1_solution.pdf` – Final solution document compiled from LaTeX
 - `assignment1.tex` – LaTeX source code
-- `outcome/` – Folder containing plots and results used in the assignment
+- `figures/` – Folder containing plots and results used in the assignment
 - `task3.py` - Python script used to solve Task 3
 - `assignment1_description.pdf` - Assignment description
 
@@ -37,7 +37,7 @@ python task3.py
 
 **To compile the LaTeX file:**
 
- You can use Overleaf: [Overleaf](https://www.overleaf.com/)
+ 1. You can compile the LaTeX file using Overleaf: [Overleaf](https://www.overleaf.com/)
 
 ## 📂 Structure
 ```
@@ -47,6 +47,9 @@ Obligatorisk oppgavesett 1 av 2/
 ├── figures/
 │ ├── figure1.png
 │ └── figure2.png
+│ └── figure3.png
+├── task3.py
+├── assignment1_description.pdf
 └── README.md
 ```
 
