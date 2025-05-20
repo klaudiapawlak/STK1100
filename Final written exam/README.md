@@ -30,7 +30,7 @@ This folder contains the written exam for the STK1100 course (Probability and St
  2. Run the script from the terminal:
 
 ```bash
-python exam_analysis.py
+python final_exam_python.py
 ```
 
 ## 📂 Structure
