@@ -40,6 +40,7 @@ python task3.py
  1. You can compile the LaTeX file using Overleaf: [Overleaf](https://www.overleaf.com/)
 
 ## 📂 Structure
+
 ```
 Mandatory Assignment 1 of 2/
 ├── assignment1_solution.pdf
