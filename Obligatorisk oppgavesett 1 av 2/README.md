@@ -41,7 +41,7 @@ python task3.py
 
 ## 📂 Structure
 ```
-Obligatorisk oppgavesett 1 av 2/
+Mandatory Assignment 1 of 2/
 ├── assignment1_solution.pdf
 ├── assignment1.tex
 ├── figures/
