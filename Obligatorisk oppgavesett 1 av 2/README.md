@@ -22,7 +22,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 - LaTeX – for typesetting mathematical content
 - Python – for simulations and visualizations
-- NumPy, Matplotlib – for numerical computations and plotting
+- Pandas, NumPy, Matplotlib – for data reading, numerical computations and plotting
 
 ## 🚀 How to Run
 
