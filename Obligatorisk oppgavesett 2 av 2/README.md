@@ -21,7 +21,7 @@ This folder contains the second mandatory assignment for the STK1100 course (Pro
 
 - LaTeX – for typesetting mathematical content
 - Python – for simulations and visualizations
-- Pandas, NumPy, Matplotlib – for data reading, numerical computations and plotting
+- NumPy, Matplotlib – for numerical computations and plotting
 
 ## 🚀 How to Run
 
@@ -41,7 +41,7 @@ python assignment2_python.py
 ## 📂 Structure
 
 ```
-Mandatory Assignment 1 of 2/
+Mandatory Assignment 2 of 2/
 ├── figures/
 │ ├── figure1.jpg
 │ └── figure2.jpg
