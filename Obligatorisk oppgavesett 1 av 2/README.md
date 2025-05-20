@@ -14,7 +14,9 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 - `assignment1_solution.pdf` – Final solution document compiled from LaTeX
 - `assignment1.tex` – LaTeX source code
-- `figures/` – Folder containing plots and results used in the assignment
+- `outcome/` – Folder containing plots and results used in the assignment
+- `task3.py` - Python script used to solve Task 3
+- `assignment1_description.pdf` - Assignment description
 
 ## 🛠 Tools and Technologies
 
@@ -33,7 +35,10 @@ python assignment1.py
 ```
 
 You can install dependencies (if needed) using:
+
+```bash
 pip install numpy matplotlib
+```
 
 ### To compile the LaTeX file:
 
