@@ -45,14 +45,10 @@ STK1100/
 │   ├── assignment2_solution.pdf
 │   └── assignment2_python.py
 │
-├── oblig3/
-│   ├── oblig3_solution.ipynb
-│   └── README.md
-│
-├── summary_notes/
-│   ├── distributions_overview.ipynb
-│   ├── central_limit_theorem.ipynb
-│   └── confidence_intervals_demo.ipynb
+├── Final Written Exam/
+│   ├── README.md
+│   ├── final_exam.pdf
+│   └── final_exam_python.py
 │
 └── README.md
 ```
