@@ -26,7 +26,7 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 
 ## 🚀 How to Run
 
-- **To run the Python script:**
+**To run the Python script:**
 
  Make sure you have Python installed (version 3.x) along with NumPy and Matplotlib.
 
@@ -34,11 +34,11 @@ This folder contains the first mandatory assignment for the STK1100 course (Prob
 python task3.py
 ```
 
-- **To compile the LaTeX file:**
+**To compile the LaTeX file:**
 
  You can use Overleaf: [Overleaf](https://www.overleaf.com/)
 
-## 📂 Repository Structure
+## 📂 Structure
 ```
 Obligatorisk oppgavesett 1 av 2/
 ├── assignment1_solution.pdf
