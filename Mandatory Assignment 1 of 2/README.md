@@ -44,9 +44,9 @@ python task3.py
 ```
 Mandatory Assignment 1 of 2/
 ├── figures/
-│ ├── figure1.png
-│ └── figure2.png
-│ └── figure3.png
+│ ├── figure1.jpg
+│ └── figure2.jpg
+│ └── figure3.jpg
 ├── README.md
 ├── assignment1.tex
 ├── assignment1_description.pdf
