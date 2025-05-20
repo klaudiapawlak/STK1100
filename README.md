@@ -35,10 +35,15 @@ STK1100/
 │   ├── assignment1_solution.pdf
 │   └── task3.py
 │
-├── oblig2/
-│   ├── oblig2_solution.ipynb
-│   ├── plots/
-│   └── README.md
+├── Mandatory Assignment 2 of 2/
+│   ├── figures/
+│   │ ├── figure1.jpg
+│   │ ├── figure2.jpg
+│   │ ├── figure3.jpg
+│   ├── README.md
+│   ├── assignment2.tex
+│   ├── assignment2_solution.pdf
+│   └── assignment2_python.py
 │
 ├── oblig3/
 │   ├── oblig3_solution.ipynb
@@ -49,7 +54,7 @@ STK1100/
 │   ├── central_limit_theorem.ipynb
 │   └── confidence_intervals_demo.ipynb
 │
-└── README.md             # This file
+└── README.md
 ```
 
 ## 🛠 Tools Used
