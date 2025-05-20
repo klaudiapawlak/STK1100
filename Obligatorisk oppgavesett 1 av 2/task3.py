@@ -2,11 +2,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
+#Loading Data
 url = "https://www.uio.no/studier/emner/matnat/math/STK1100/data/doedelighet.txt"
 doed = pd.read_csv(url, sep="\t")
 alder = doed["alder"].values
 menn = doed["menn"].values
 
+#Calculating Probabilities
 qx = menn[35:]/1000
 Sx = np.cumprod(1-qx)
 Fx = 1-Sx
@@ -15,6 +17,7 @@ tmp = np.zeros(72)
 tmp[1:72] = Fx[0:71]
 px = Fx - tmp
 
+#Visualizing
 x = alder[35:]
 
 plt.bar(x, px, width=1, edgecolor="black")
@@ -22,6 +25,7 @@ plt.xlabel("Alder")
 plt.ylabel("Punktsannsynlighet")
 plt.show()
 
+#Calculating Expected Values
 x = np.arange(0, 72)
 
 hx = np.zeros(72)
