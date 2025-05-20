@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-url = "https://www.uio.no/studier/emner/matnat/math/STK1100/v20/doedelighet.txt"
+url = "https://www.uio.no/studier/emner/matnat/math/STK1100/data/doedelighet.txt"
 doed = pd.read_csv(url, sep="\t")
 alder = doed["alder"].values
 menn = doed["menn"].values
