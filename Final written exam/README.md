@@ -41,3 +41,8 @@ Final Written Exam/
 ├── final_exam.pdf
 └── final_exam_python.py
 ```
+
+## 👤 Author
+
+Klaudia M. Pawlak  
+[GitHub](https://github.com/klaudiapawlak)
