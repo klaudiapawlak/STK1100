@@ -43,15 +43,15 @@ python task3.py
 
 ```
 Mandatory Assignment 1 of 2/
-├── assignment1_solution.pdf
-├── assignment1.tex
 ├── figures/
 │ ├── figure1.png
 │ └── figure2.png
 │ └── figure3.png
-├── task3.py
+├── README.md
+├── assignment1.tex
 ├── assignment1_description.pdf
-└── README.md
+├── assignment1_solution.pdf
+└── task3.py
 ```
 
 ## 👤 Author
