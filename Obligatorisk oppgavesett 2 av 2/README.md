@@ -4,11 +4,13 @@ This folder contains the second mandatory assignment for the STK1100 course (Pro
 
 ## 📝 Assignment Overview
 
-- Understanding the concept of probability and mastering basic probability rules
-- Working with random variables (expectation, variance, etc.)
-- Applying common discrete distributions (e.g. Binomial, Poisson)
-- Computing probabilities and expectations using univariate distributions
-- Using conditional probability and understanding independence
+- Understanding and applying the Pareto distribution for income modeling
+- Calculating cumulative distribution functions, medians, expected values, and variances
+- Working with transformations of random variables
+- Analyzing joint, marginal, and conditional probability distributions
+- Checking statistical independence between variables
+- Simulating continuous random variables using inverse transform sampling
+- Visualizing probability distributions and interpreting simulation results using Python
 
 ## 📄 Contents
 
