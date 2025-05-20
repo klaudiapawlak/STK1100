@@ -52,6 +52,7 @@ STK1100/
 - Python
 - NumPy
 - Matplotlib
+- LaTeX
 
 ## 👤 Author
 
